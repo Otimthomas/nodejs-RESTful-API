@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-restful-api",
+  "version": "1.0.0",
+  "description": "A RESTful API that performs CRUD operation that is create, read, update and delete from an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otimthomas/nodejs-RESTful-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otimthomas/nodejs-RESTful-API/issues"
+  },
+  "homepage": "https://github.com/Otimthomas/nodejs-RESTful-API#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "joi": "^14.3.1"
+  }
+}
